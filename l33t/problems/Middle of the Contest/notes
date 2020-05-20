@@ -1,0 +1,9 @@
+Uma questao relativamente simples, porem como eu nao a testei
+adequadamente antes da terceira submissao, e por isso tomei dois
+WA por causa do seguinte cenario
+
+01:12
+03:02
+
+Ele deveria retornar 02:07, porem esta retornando 01:67, depois
+disso resolvido o problema recebeu um aceito sem demoras.
